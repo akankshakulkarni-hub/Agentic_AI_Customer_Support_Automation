@@ -1,5 +1,5 @@
-# ABC Technologies - AI Customer Support Automation System
-## Built with LangGraph | IBM Agentic AI Certification Assignment 2
+# AI Customer Support Automation System
+## Built with LangGraph
 
 ---
 
@@ -51,7 +51,7 @@ Final Response to Customer
 ```
 customer_support_ai/
 ├── src/
-│   └── main.py              ← Main application (run this!)
+│   └── main.py              ← Main application 
 ├── knowledge_base/
 │   ├── company_policy.txt   ← Refund, cancellation, support policies
 │   ├── pricing_guide.txt    ← All subscription plans and pricing
@@ -59,8 +59,8 @@ customer_support_ai/
 │   └── faq.txt              ← Frequently asked questions
 ├── requirements.txt          ← Python dependencies
 ├── .env.example             ← Environment variable template
-├── .env                     ← Your actual API keys (create this!)
-├── memory.db                ← SQLite database (auto-created on first run)
+├── .env                     ← Your actual API keys 
+├── memory.db                ← SQLite database 
 └── README.md                ← This file
 ```
 
@@ -69,11 +69,11 @@ customer_support_ai/
 ## Setup Instructions
 
 ### Step 1: Install Python
-- Download Python 3.11+ from https://www.python.org/downloads/
+- Download Python 3.11+ 
 - During installation, check "Add Python to PATH"
 
 ### Step 2: Install VS Code
-- Download from https://code.visualstudio.com/
+- Download
 - Install the Python extension from VS Code marketplace
 
 ### Step 3: Open the Project
@@ -89,8 +89,6 @@ python -m venv venv
 # Activate (Windows):
 venv\Scripts\activate
 
-# Activate (Mac/Linux):
-source venv/bin/activate
 ```
 
 ### Step 5: Install Dependencies
@@ -102,11 +100,10 @@ pip install -r requirements.txt
 ```bash
 # Copy the example file:
 copy .env.example .env       # Windows
-cp .env.example .env         # Mac/Linux
 
 # Open .env in VS Code and replace:
 # OPENAI_API_KEY=your-openai-api-key-here
-# with your actual key from https://platform.openai.com/api-keys
+# with your actual key
 ```
 
 ### Step 7: Run the Application
