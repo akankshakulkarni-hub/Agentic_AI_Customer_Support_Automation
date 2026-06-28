@@ -1,0 +1,79 @@
+TECHNICAL MANUAL - ABC Technologies
+
+SYSTEM REQUIREMENTS:
+- Operating System: Windows 10/11, macOS 10.15+, Ubuntu 18.04+
+- Browser: Chrome 90+, Firefox 88+, Edge 90+, Safari 14+
+- RAM: Minimum 4 GB (8 GB recommended)
+- Internet: Broadband connection (5 Mbps minimum)
+
+COMMON TECHNICAL ISSUES AND SOLUTIONS:
+
+1. LOGIN PROBLEMS:
+   Issue: Cannot log in / "Invalid credentials" error
+   Solution: 
+   - Clear browser cache and cookies.
+   - Try incognito/private browser mode.
+   - Check Caps Lock is off.
+   - Use "Forgot Password" to reset your password.
+   - Check if your account is active (contact Account Support).
+
+2. APPLICATION CRASHES:
+   Issue: App crashes when performing actions (e.g., uploading files)
+   Solution:
+   - Check file size (maximum upload size: 100 MB per file).
+   - Supported file formats: PDF, DOCX, XLSX, PNG, JPG, CSV.
+   - Clear browser cache.
+   - Disable browser extensions.
+   - Try a different browser.
+   - Check your internet connection stability.
+   - If issue persists, collect browser console logs (F12 > Console) and raise a support ticket.
+
+3. FILE UPLOAD ISSUES:
+   Issue: File upload fails or causes crash
+   Solution:
+   - Maximum file size: 100 MB per file.
+   - Maximum batch upload: 10 files at once.
+   - Ensure file format is supported (PDF, DOCX, XLSX, PNG, JPG, CSV, MP4).
+   - Check available storage in your plan.
+   - Disable antivirus/firewall temporarily to test.
+   - Use a stable internet connection.
+
+4. INSTALLATION ISSUES:
+   Issue: Cannot install desktop application
+   Solution:
+   - Ensure OS meets minimum requirements.
+   - Download installer from official website only: app.abctechnologies.com/download
+   - Run installer as Administrator (Windows) or with sudo (Linux).
+   - Disable antivirus during installation.
+   - Check disk space (minimum 2 GB required).
+
+5. CONFIGURATION ISSUES:
+   Issue: Integration not working / API errors
+   Solution:
+   - Verify API key is correct and not expired.
+   - Check API call limits for your plan.
+   - Ensure webhook URL is publicly accessible.
+   - Review API documentation at docs.abctechnologies.com.
+   - Check integration permissions in Settings > Integrations.
+
+6. PERFORMANCE ISSUES:
+   Issue: App running slowly
+   Solution:
+   - Clear browser cache.
+   - Close unused browser tabs.
+   - Check internet speed (minimum 5 Mbps required).
+   - Try using the desktop app instead of browser.
+   - Contact support if issue persists.
+
+ERROR CODES:
+- ERR_001: Authentication failure - Re-login required.
+- ERR_002: File too large - Reduce file size.
+- ERR_003: Unsupported format - Convert to supported format.
+- ERR_004: Storage limit reached - Upgrade plan or delete files.
+- ERR_005: API limit exceeded - Upgrade plan or wait for reset.
+- ERR_500: Internal server error - Contact Technical Support.
+
+CONTACT TECHNICAL SUPPORT:
+- Email: techsupport@abctechnologies.com
+- Live Chat: Available on the app (business hours)
+- Emergency Hotline: +1-800-ABC-TECH (critical issues only)

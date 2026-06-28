@@ -1,0 +1,54 @@
+FAQ DOCUMENT - ABC Technologies
+
+GENERAL QUESTIONS:
+
+Q: What is ABC Technologies?
+A: ABC Technologies is a SaaS company providing cloud-based business management software to help companies streamline operations, manage workflows, and collaborate effectively.
+
+Q: Is there a free trial available?
+A: Yes! We offer a 14-day free trial for Starter and Professional plans. No credit card is required to start your trial.
+
+Q: Can I change my plan later?
+A: Yes, you can upgrade or downgrade your plan at any time from your account settings. Upgrades take effect immediately; downgrades take effect at the next billing cycle.
+
+ACCOUNT QUESTIONS:
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page. Enter your registered email address. You will receive a password reset link within 5 minutes. The link expires in 24 hours.
+
+Q: How do I update my profile information?
+A: Log in to your account. Go to Settings > Profile. Update your name, email, phone number, or profile picture. Click Save Changes.
+
+Q: How do I add or remove users from my account?
+A: Go to Settings > Team Members. Click "Invite User" to add. Click the "..." menu next to a user and select "Remove" to deactivate.
+
+Q: How do I activate or deactivate my account?
+A: To deactivate: Go to Settings > Account > Deactivate Account. To reactivate: Contact Account Support with your registered email. Account deactivation requires confirmation from Account Support.
+
+BILLING QUESTIONS:
+
+Q: How do I get an invoice?
+A: Log in to your account. Go to Settings > Billing > Invoice History. Download any invoice as PDF. Invoices are also emailed automatically after each payment.
+
+Q: What payment methods are accepted?
+A: We accept Visa, Mastercard, American Express, PayPal, and bank transfers (Enterprise only).
+
+Q: How do I cancel my subscription?
+A: Go to Settings > Billing > Cancel Subscription. Read the cancellation terms. Confirm cancellation. Note: Annual plan cancellations require human supervisor approval and are subject to our refund policy.
+
+Q: How do I request a refund?
+A: Contact our Billing Support team. Refunds are available within 30 days of purchase. All refund requests are reviewed by a human supervisor before processing.
+
+TECHNICAL QUESTIONS:
+
+Q: What browsers are supported?
+A: Chrome 90+, Firefox 88+, Edge 90+, and Safari 14+.
+
+Q: What is the maximum file upload size?
+A: The maximum file size per upload is 100 MB. You can upload up to 10 files at a time.
+
+Q: Is my data secure?
+A: Yes. We use 256-bit SSL encryption for all data in transit and AES-256 encryption for data at rest. We are SOC 2 Type II certified and GDPR compliant.
+
+Q: Can I export my data?
+A: Yes. Go to Settings > Data Management > Export Data. You can export in CSV, JSON, or PDF format.
